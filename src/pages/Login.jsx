@@ -1,11 +1,10 @@
 import React from 'react'
-import Add from "../img/addAvatar.png"
 
 const Login= () => {
   return (
     <div className='formContainer'>
     <div className='formWrapper'>
-    <span className='logo'>React Chat</span>
+    <span className='logo'>ReactChat</span>
     <span className='title'>Login</span>
     <form>
         <input type="email" placeholder='email'/>
