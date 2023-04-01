@@ -45,8 +45,20 @@
         font-weight: bold;
         cursor: pointer;
       }
+      label{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        color: #5d5d5d;
+        font-style: 12px;
+        cursor: pointer;
+
+        img{
+          width: 32px;
+        }
+      }
     }
-    p{
+     p{
       color: #000;
       font-style: 12px;
       margin-top: 10px;
