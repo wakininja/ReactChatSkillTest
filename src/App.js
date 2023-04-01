@@ -1,11 +1,10 @@
 
 import './App.scss';
+import Register from './pages/Register';
 
 function App() {
   return (
-    <div className='App'>
-    <h2>Welcome</h2>
-    </div>
+   <Register/>
   );
 }
 

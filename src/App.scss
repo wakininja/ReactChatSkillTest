@@ -1,3 +1,56 @@
-.App{
-  background-color: aqua;
+.formContainer{
+  background-color: #CBB26A;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .formWrapper{
+    background-color: #fff;
+    padding: 20px 60px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction:column;
+    gap: 10px;
+    align-items: center;
+
+    .logo{
+      color: #000;
+      font-weight: bold;
+      font-style: 24px;
+    }
+
+    .title{
+      color: #5d5d5d;
+      font-style: 12px;
+    }
+    form{
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+
+      input{
+        padding: 15px;
+        border: none;
+        width: 250px;
+        border-bottom: 1px solid #CBB26A;
+         &::placeholder{
+          color: rgb(175, 175, 175);
+         }
+
+      }
+      button{
+        background-color: #CBB26A;
+        color: #000;
+        padding: 10px;
+        font-weight: bold;
+        cursor: pointer;
+      }
+    }
+    p{
+      color: #000;
+      font-style: 12px;
+      margin-top: 10px;
+    }
+  }
 }
+
