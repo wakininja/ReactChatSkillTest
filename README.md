@@ -21,7 +21,7 @@
 
 
 **How To Use**
-  * To Use this Chat App the link https://642ebf6362912b389b936526--clever-gnome-ed87c0.netlify.app/login to see this chat app live & play with it simple :)
+  * To Use this Chat App the link https://642ebf6362912b389b936526--clever-gnome-ed87c0.netlify.app/ to see this chat app live & play with it simple :)
   
   
 **Web Technologies Used** 
