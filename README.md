@@ -1,4 +1,5 @@
 # React chat App SkillTest Project
+![2023-04-06 18-47-43](https://user-images.githubusercontent.com/86143301/230394810-6b5b57f2-1092-450e-b0dd-1fe5b6538e23.gif)
 
 ***Functionality***
 * Assume you are a dummy logged in user.
@@ -17,6 +18,26 @@
 * You have to use react-router.
 * You have to use react hooks ONLY.
 * Bonus feature: Make the redux data persistent such that after refresh, the messages and conversations are intact.
+
+
+**How To Use**
+  * To Use this Chat App the link https://642ebf6362912b389b936526--clever-gnome-ed87c0.netlify.app/login to see this chat app live & play with it simple :)
+  
+  
+**Web Technologies Used** 
+* CSS  
+* JavaScript
+* React
+  
+  
+**Credits**
+* VS code Editor
+* W3 School
+* Stack Over Flow
+* Github search.
+
+**You May Also like the**
+React contactList management app https://github.com/wakininja/react-contactlist-management
 
 # Getting Started with Create React App
 
